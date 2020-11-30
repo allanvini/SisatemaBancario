@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SisatemaBancario", "SisatemaBancario\SisatemaBancario.csproj", "{64A52BEF-0456-43EE-A345-E5F93ACD235D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A52BEF-0456-43EE-A345-E5F93ACD235D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A52BEF-0456-43EE-A345-E5F93ACD235D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A52BEF-0456-43EE-A345-E5F93ACD235D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A52BEF-0456-43EE-A345-E5F93ACD235D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67934F1B-34AE-4A62-AA82-AFB702BD929E}
+	EndGlobalSection
+EndGlobal
