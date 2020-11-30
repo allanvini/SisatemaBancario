@@ -1,4 +1,4 @@
-# SisatemaBancario
+# Projeto Sistema Bancario C#
 
 Sistema feito para um projeto da faculdade, utilizando o .NET Framework juntamente com a implementação de um banco de dados MySQL.
 
